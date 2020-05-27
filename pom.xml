@@ -10,7 +10,6 @@
 		<groupId>decentralized-identity</groupId>
 		<artifactId>uni-resolver</artifactId>
 		<version>0.1.0</version>
-		<relativePath />
 	</parent>
 
 	<repositories>
